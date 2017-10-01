@@ -2,12 +2,8 @@ body {
 	font-family: 'IM Fell English', serif;
 }
 
-
-}
-
 img, embed, object, video {
 	max-width: 100%
-	border-radius: 10px;
 }
 
 nav a, button {
@@ -20,10 +16,4 @@ nav a, button {
 /* brandico */
 [class*="brandico-"]:before {
   font-family: 'brandico', sans-serif;
-}
-
-
-footer {
-	width: 100%;
-	border: 3px solid grey;
 }
