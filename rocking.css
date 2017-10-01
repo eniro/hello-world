@@ -1,0 +1,29 @@
+body {
+	font-family: 'IM Fell English', serif;
+}
+
+
+}
+
+img, embed, object, video {
+	max-width: 100%
+	border-radius: 10px;
+}
+
+nav a, button {
+	min-width: 48px;
+	min-height: 48px;
+}
+
+@import url(http://weloveiconfonts.com/api/?family=brandico);
+
+/* brandico */
+[class*="brandico-"]:before {
+  font-family: 'brandico', sans-serif;
+}
+
+
+footer {
+	width: 100%;
+	border: 3px solid grey;
+}
