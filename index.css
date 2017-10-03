@@ -17,6 +17,8 @@ img, embed, object, video {
 
 #inside {
 	position: absolute; 
+	top: 200px;
+	left: 20px;
 }
 
 nav a, button {
