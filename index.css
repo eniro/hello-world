@@ -22,3 +22,9 @@ nav a, button {
 	height: 40px;
 	border-radius: 50px;
 }
+
+#textmenu {
+	background-color: #FFFFFF;
+	font-size: 15px;
+	font-weight: bold;
+}
