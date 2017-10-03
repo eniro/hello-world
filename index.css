@@ -6,6 +6,10 @@ img, embed, object, video {
 	max-width: 100%
 }
 
+#front {
+	background: #ffffff;
+	border-radius: 50%;
+
 nav a, button {
 	min-width: 48px;
 	min-height: 48px;
