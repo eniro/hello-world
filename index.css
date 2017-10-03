@@ -8,7 +8,7 @@ img, embed, object, video {
 
 	
 #front	{
-	border-radius: 50%;
+	border-radius: 50px;
 	}
 
 nav a, button {
@@ -19,5 +19,6 @@ nav a, button {
 #menu {
 	background-color: #330066;
 	max-width: 100;
-	height: 20px;
+	height: 40px;
+	border-radius: 50px;
 }
