@@ -8,7 +8,7 @@ img, embed, object, video {
 
 #front {
 	background: #ffffff;
-	border-radius: 50%;
+	border-radius: 15px 50px;
 
 nav a, button {
 	min-width: 48px;
