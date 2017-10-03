@@ -15,7 +15,7 @@ img, embed, object, video {
 	border-radius: 15px 50px;
 	}
 
-.inside {
+#inside {
 	position: absolute; 
    
    	width: 100%; 
