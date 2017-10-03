@@ -17,8 +17,8 @@ img, embed, object, video {
 
 .inside {
 	position: absolute;
-   	top: 200px; 
-	left: 0; 
+   	top: 100px; 
+	left: 80px; 
         width: 100%; 
 }
 .span {	
