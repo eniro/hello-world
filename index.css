@@ -6,11 +6,12 @@ img, embed, object, video {
 	max-width: 100%
 }
 
-#front {
+.imagel {
 	position: relative;
-	background: #ffffff;
-	border-radius: 15px 50px;
 	width: 100%
+	
+#front	border-radius: 15px 50px;
+	
 .inside {
 	position: absolute;
    	top: 200px; 
