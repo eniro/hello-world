@@ -16,8 +16,10 @@ img, embed, object, video {
 	}
 
 .inside {
-	position: absolute;
-        width: 100%; 
+	position: absolute; 
+   	top: 200px; 
+   	left: 0; 
+   	width: 100%; 
 }
 .span {	
 	color: white;
