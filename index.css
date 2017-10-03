@@ -30,6 +30,10 @@ img, embed, object, video {
    	padding: 10px;
 }
 
+h1 span.spacer {
+   padding:0 5px;
+}
+
 nav a, button {
 	min-width: 48px;
 	min-height: 48px;
