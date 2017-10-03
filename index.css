@@ -6,20 +6,10 @@ img, embed, object, video {
 	max-width: 100%
 }
 
-.imagel {
-	position: relative;
-	width: 100%
-}
 	
 #front	{
 	border-radius: 15px 50px;
 	}
-
-#inside {
-	position: absolute; 
-	top: 200px;
-	left: 20px;
-}
 
 nav a, button {
 	min-width: 48px;
