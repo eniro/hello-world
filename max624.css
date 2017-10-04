@@ -10,3 +10,11 @@
 	font-size: 15px;
 	font-weight: bold;
 }
+
+nav a, button {
+	min-width: 45px;
+    	min-height: 45px;
+    	background-color: #1f043a;
+    	margin-top: 5px;
+    	margin-bottom: 5px;
+    	border-radius: 50%;
