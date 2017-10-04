@@ -9,6 +9,7 @@ img, embed, object, video {
 	
 #front	{
 	border-radius: 25px 25px 0px 0px;
+	margin-top: 5px;
 	}
 
 nav a, button {
