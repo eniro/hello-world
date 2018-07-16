@@ -1,3 +1,5 @@
-# hello-world
 first repository
-This is going to be a page about board games.
+
+https://eniro.github.io/hello-world/
+
+A responsive webpage about boardgames :) Languages used: HTML5, CSS3, Bootstrap.
