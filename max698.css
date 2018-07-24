@@ -19,12 +19,21 @@ body {
 
 nav a, button {
 	min-width: 45px;
-    	min-height: 45px;
-    	background-color: #1f043a;
-    	margin-top: 5px;
-    	margin-bottom: 5px;
-    	border-radius: 25px;
+    min-height: 45px;
+    background-color: #1f043a;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 25px;
 }
+
+a:link, a:visited {
+    color: black;
+}
+a:hover {
+    color: purple;
+}
+
+
 #tzolk {
 	border-radius: 25px;
 }
@@ -32,3 +41,21 @@ nav a, button {
 #kykl {
 	border-radius: 25px;
 }
+
+#catan {
+	border-radius: 25px;
+}
+
+.footer {
+	background-color: #1f043a; 
+	height: 20px; 
+	border-radius: 25px;
+}
+
+.footertext {
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+}
+
